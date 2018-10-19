@@ -1,0 +1,4 @@
+Natassa,Grande			
+Demy,Tall
+Elena,Short
+Indra,Venti
